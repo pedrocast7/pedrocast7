@@ -6,7 +6,7 @@
 
 Bachelor's degree in Biomedical Engineering from the Federal University of Pará (UFPA), enrolled in 2018, engaged in Scientific Initiation activities involving Computer Vision, Precision Agriculture, and Bioinformatics at the RD Center in Telecommunications, Automation, and Electronics (LASSE/UFPA). Also worked as a scholarship holder in an extension project at the Signal Processing Laboratory (LaPS/UFPA), conducting Research and Development activities in Computer Vision focused on applying low-cost support technologies for rehabilitation. Has experience in areas such as Machine Learning, Computer Vision, Digital Signal Processing, and Python programming and working with famous libraries such as PyTorch and TensorFlow. Currently pursuing a master's degree in Electrical Engineering at the Federal University of Santa Catarina (UFSC), with an emphasis on Machine Learning and Signal Processing, working on research in the uncertainty estimation techniques field at the Machine Learning and Applications Research Group (GAMA).
 
-If you're interested in contacting me for work on some cool project, can send me a message in any of the contacts below 😉
+If you're interested in contacting me for work on some cool project or just to know my work better, click in any of the icons below 😉
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pedrocast7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>&nbsp;
