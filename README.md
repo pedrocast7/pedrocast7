@@ -31,7 +31,7 @@ If you're interested in contacting me for work on some cool project or just to k
 #
 
 ## 📊 Stats
-![pedrocast7's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrocast7&show_icons=true&theme=catppuccin_mocha )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocast7&show_icons=true&theme=catppuccin_mocha )
+![Pedro's GitHub stats](https://github-stats-extended.vercel.app/api?username=pedrocast7&show_icons=true&theme=catppuccin_mocha)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=pedrocast7&show_icons=true&theme=catppuccin_mocha)
 
 
